@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
@@ -17,3 +18,6 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 * A text editor
 * Basic knowledge of HTML, CSS and JavaScript
 * (Optional) Node is required in the last step to deploy to Firebase
+=======
+# pwa-workshop
+>>>>>>> 72c43d7eb97d636b0de8d58a08d595dd6720b9b2
